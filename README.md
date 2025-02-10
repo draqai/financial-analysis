@@ -64,7 +64,7 @@ Here are the 4 agents designed to collaborate in this project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/viktoriasemaan/multi-agent.git
+   git clone https://github.com/draqai/financial-analysis.git
    cd financial-analysis
    ```
 
